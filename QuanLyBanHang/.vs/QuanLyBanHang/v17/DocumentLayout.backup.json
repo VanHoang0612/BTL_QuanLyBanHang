@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BTLdotnet\\QuanLyBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|e:\\btldotnet\\quanlybanhang\\frmhoadonban.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|solutionrelative:frmhoadonban.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|e:\\btldotnet\\quanlybanhang\\frmdmhanghoa.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|solutionrelative:frmdmhanghoa.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|e:\\btldotnet\\quanlybanhang\\frmhoadonban.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|solutionrelative:frmhoadonban.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|e:\\btldotnet\\quanlybanhang\\frmdmnhanvien.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|solutionrelative:frmdmnhanvien.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|e:\\btldotnet\\quanlybanhang\\frmdmkhachhang.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|solutionrelative:frmdmkhachhang.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|e:\\btldotnet\\quanlybanhang\\frmdmchatlieu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|solutionrelative:frmdmchatlieu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|e:\\btldotnet\\quanlybanhang\\class\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|solutionrelative:class\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|e:\\btldotnet\\quanlybanhang\\frmdmchatlieu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|solutionrelative:frmdmchatlieu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|e:\\btldotnet\\quanlybanhang\\frmdmhanghoa.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|solutionrelative:frmdmhanghoa.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|e:\\btldotnet\\quanlybanhang\\frmdmkhachhang.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|solutionrelative:frmdmkhachhang.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|e:\\btldotnet\\quanlybanhang\\frmdmnhanvien.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|solutionrelative:frmdmnhanvien.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|e:\\btldotnet\\quanlybanhang\\frmmain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|solutionrelative:frmmain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|e:\\btldotnet\\quanlybanhang\\frmmain.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|solutionrelative:frmmain.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|e:\\btldotnet\\quanlybanhang\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|e:\\btldotnet\\quanlybanhang\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|e:\\btldotnet\\quanlybanhang\\quanlybanhang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7E42D95-732C-448E-B188-CD5150E2BEB7}|QuanLyBanHang.csproj|solutionrelative:quanlybanhang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmHoaDonBan.xaml.cs",
+              "DocumentMoniker": "E:\\BTLdotnet\\QuanLyBanHang\\frmHoaDonBan.xaml.cs",
+              "RelativeDocumentMoniker": "frmHoaDonBan.xaml.cs",
+              "ToolTip": "E:\\BTLdotnet\\QuanLyBanHang\\frmHoaDonBan.xaml.cs",
+              "RelativeToolTip": "frmHoaDonBan.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:06:04.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDMNhanVien.xaml.cs",
+              "DocumentMoniker": "E:\\BTLdotnet\\QuanLyBanHang\\frmDMNhanVien.xaml.cs",
+              "RelativeDocumentMoniker": "frmDMNhanVien.xaml.cs",
+              "ToolTip": "E:\\BTLdotnet\\QuanLyBanHang\\frmDMNhanVien.xaml.cs",
+              "RelativeToolTip": "frmDMNhanVien.xaml.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAqwH0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:04:56.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmHoaDonBan.xaml",
+              "DocumentMoniker": "E:\\BTLdotnet\\QuanLyBanHang\\frmHoaDonBan.xaml",
+              "RelativeDocumentMoniker": "frmHoaDonBan.xaml",
+              "ToolTip": "E:\\BTLdotnet\\QuanLyBanHang\\frmHoaDonBan.xaml",
+              "RelativeToolTip": "frmHoaDonBan.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T02:42:01.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDMHangHoa.xaml.cs",
+              "DocumentMoniker": "E:\\BTLdotnet\\QuanLyBanHang\\frmDMHangHoa.xaml.cs",
+              "RelativeDocumentMoniker": "frmDMHangHoa.xaml.cs",
+              "ToolTip": "E:\\BTLdotnet\\QuanLyBanHang\\frmDMHangHoa.xaml.cs",
+              "RelativeToolTip": "frmDMHangHoa.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwCEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:48:50.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDMKhachHang.xaml.cs",
+              "DocumentMoniker": "E:\\BTLdotnet\\QuanLyBanHang\\frmDMKhachHang.xaml.cs",
+              "RelativeDocumentMoniker": "frmDMKhachHang.xaml.cs",
+              "ToolTip": "E:\\BTLdotnet\\QuanLyBanHang\\frmDMKhachHang.xaml.cs",
+              "RelativeToolTip": "frmDMKhachHang.xaml.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAowGoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:05:12.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDMChatLieu.xaml.cs",
+              "DocumentMoniker": "E:\\BTLdotnet\\QuanLyBanHang\\frmDMChatLieu.xaml.cs",
+              "RelativeDocumentMoniker": "frmDMChatLieu.xaml.cs",
+              "ToolTip": "E:\\BTLdotnet\\QuanLyBanHang\\frmDMChatLieu.xaml.cs",
+              "RelativeToolTip": "frmDMChatLieu.xaml.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAwGMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:19:14.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "E:\\BTLdotnet\\QuanLyBanHang\\Class\\Functions.cs",
+              "RelativeDocumentMoniker": "Class\\Functions.cs",
+              "ToolTip": "E:\\BTLdotnet\\QuanLyBanHang\\Class\\Functions.cs",
+              "RelativeToolTip": "Class\\Functions.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwCIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:38:31.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmDMChatLieu.xaml",
+              "DocumentMoniker": "E:\\BTLdotnet\\QuanLyBanHang\\frmDMChatLieu.xaml",
+              "RelativeDocumentMoniker": "frmDMChatLieu.xaml",
+              "ToolTip": "E:\\BTLdotnet\\QuanLyBanHang\\frmDMChatLieu.xaml",
+              "RelativeToolTip": "frmDMChatLieu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T04:58:27.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmDMHangHoa.xaml",
+              "DocumentMoniker": "E:\\BTLdotnet\\QuanLyBanHang\\frmDMHangHoa.xaml",
+              "RelativeDocumentMoniker": "frmDMHangHoa.xaml",
+              "ToolTip": "E:\\BTLdotnet\\QuanLyBanHang\\frmDMHangHoa.xaml",
+              "RelativeToolTip": "frmDMHangHoa.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T17:37:17.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmDMKhachHang.xaml",
+              "DocumentMoniker": "E:\\BTLdotnet\\QuanLyBanHang\\frmDMKhachHang.xaml",
+              "RelativeDocumentMoniker": "frmDMKhachHang.xaml",
+              "ToolTip": "E:\\BTLdotnet\\QuanLyBanHang\\frmDMKhachHang.xaml",
+              "RelativeToolTip": "frmDMKhachHang.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T17:23:43.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmDMNhanVien.xaml",
+              "DocumentMoniker": "E:\\BTLdotnet\\QuanLyBanHang\\frmDMNhanVien.xaml",
+              "RelativeDocumentMoniker": "frmDMNhanVien.xaml",
+              "ToolTip": "E:\\BTLdotnet\\QuanLyBanHang\\frmDMNhanVien.xaml",
+              "RelativeToolTip": "frmDMNhanVien.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T16:41:21.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmMain.xaml",
+              "DocumentMoniker": "E:\\BTLdotnet\\QuanLyBanHang\\frmMain.xaml",
+              "RelativeDocumentMoniker": "frmMain.xaml",
+              "ToolTip": "E:\\BTLdotnet\\QuanLyBanHang\\frmMain.xaml",
+              "RelativeToolTip": "frmMain.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T13:53:22.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmMain.xaml.cs",
+              "DocumentMoniker": "E:\\BTLdotnet\\QuanLyBanHang\\frmMain.xaml.cs",
+              "RelativeDocumentMoniker": "frmMain.xaml.cs",
+              "ToolTip": "E:\\BTLdotnet\\QuanLyBanHang\\frmMain.xaml.cs",
+              "RelativeToolTip": "frmMain.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAD4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:07:57.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\BTLdotnet\\QuanLyBanHang\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "E:\\BTLdotnet\\QuanLyBanHang\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T14:16:57.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\BTLdotnet\\QuanLyBanHang\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "E:\\BTLdotnet\\QuanLyBanHang\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-29T04:56:38.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuanLyBanHang.csproj",
+              "DocumentMoniker": "E:\\BTLdotnet\\QuanLyBanHang\\QuanLyBanHang.csproj",
+              "RelativeDocumentMoniker": "QuanLyBanHang.csproj",
+              "ToolTip": "E:\\BTLdotnet\\QuanLyBanHang\\QuanLyBanHang.csproj",
+              "RelativeToolTip": "QuanLyBanHang.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T14:55:47.818Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

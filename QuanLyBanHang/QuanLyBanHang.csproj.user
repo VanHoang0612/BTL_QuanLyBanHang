@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="frmDMChatLieu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="frmDMHangHoa.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="frmDMKhachHang.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="frmDMNhanVien.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="frmHoaDonBan.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="frmMain.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="frmDMChatLieu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="frmDMHangHoa.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="frmDMKhachHang.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="frmDMNhanVien.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="frmHoaDonBan.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="frmMain.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

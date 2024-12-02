@@ -1,0 +1,46 @@
+﻿<Window x:Class="QuanLyBanHang.frmMain"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuanLyBanHang"
+        mc:Ignorable="d"
+        Title="Quản Lý Bán Hàng Lưu Niệm" Height="450" Width="800"
+        Loaded="frmMain_Load">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="260*"/>
+            <ColumnDefinition Width="39*"/>
+            <ColumnDefinition Width="59*"/>
+            <ColumnDefinition Width="442*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height     ="*"/>
+        </Grid.RowDefinitions>
+        <Menu Height="22" VerticalAlignment="Center" Grid.ColumnSpan="4">
+            <MenuItem x:Name="TapTin" Header="Tập tin" VerticalAlignment="Center" HorizontalAlignment="Center" Height="22">
+                <MenuItem Header="Thoát" Click="mnuThoat_Click"/>
+            </MenuItem>
+            <MenuItem x:Name="DanhMuc" Header="Danh mục" VerticalAlignment="Center" HorizontalAlignment="Center" Height="22">
+                <MenuItem x:Name="ChatLieu" Header="Chất liệu" Click="ChatLieu_Click"/>
+                <MenuItem x:Name="NhanVien" Header="Nhân viên" Click="NhanVien_Click"/>
+                <MenuItem x:Name="KhachHang" Header="Khách hàng" Click="KhachHang_Click"/>
+                <MenuItem x:Name="HangHoa" Header="Hàng hóa" Click="HangHoa_Click"/>
+            </MenuItem>
+            <MenuItem x:Name="HoaDon" Header="Hóa đơn" VerticalAlignment="Center" HorizontalAlignment="Center" Height="22">
+                <MenuItem x:Name="HoaDonBan" Header="Hóa đơn bán" Click="HoaDonBan_Click"/>
+            </MenuItem>
+            
+            <MenuItem x:Name="BaoCao" Header="Báo cáo">
+                <MenuItem x:Name="BCHangTon" Header="Hàng tồn"/>
+                <MenuItem x:Name="BCDoanhThu" Header="Doanh thu"/>
+            </MenuItem>
+            <MenuItem x:Name="TroGiup" Header="Trợ giúp" VerticalAlignment="Center" HorizontalAlignment="Center" Height="22"/>
+
+        </Menu>
+        <Image x:Name="AnhNen" Grid.Row="1" Source="/Image/ban-hang-1654048406.jpg" Stretch="UniformToFill" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.ColumnSpan="4"/>
+    </Grid>
+</Window>
+  

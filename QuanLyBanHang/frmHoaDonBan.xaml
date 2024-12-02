@@ -1,0 +1,118 @@
+﻿<Window x:Class="QuanLyBanHang.frmHoaDonBan"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuanLyBanHang"
+        mc:Ignorable="d"
+        Title="Quản Lý Hóa Đơn Bán Hàng" MinHeight="680" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" MinHeight="123"/>
+            <RowDefinition/>
+            <RowDefinition Height="Auto" MinHeight="61.08"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.ColumnSpan="2" Margin="0,6,0,6" Grid.Row="0">
+            <Label Content="HÓA ĐƠN BÁN HÀNG" Height="27" FontWeight="Bold" FontSize="14" HorizontalAlignment="Center"/>
+            <GroupBox Header="Thông tin chung" Margin="10,0,10,0">
+                <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+                    <StackPanel Grid.Column="1" Margin="5,0,0,0">
+                        <StackPanel Height="30" Orientation="Horizontal">
+                            <Label Content="Mã hóa đơn:" HorizontalAlignment="Left" Margin="10,0,0,0" Width="90"/>
+                            <TextBox x:Name="txtMaHDBan" TextWrapping="Wrap" Margin="20,0,0,0" FontSize="14" VerticalAlignment="Center" Width="218" IsReadOnly="True"/>
+                        </StackPanel>
+                        <StackPanel Height="30" Orientation="Horizontal" Margin="0,5,0,5">
+                            <Label Content="Ngày bán:" HorizontalAlignment="Left" Margin="10,0,0,0" Width="90"/>
+                            <DatePicker x:Name="dtNgayBan"  Margin="20,0,0,0" Width="218" VerticalAlignment="Center" Height="24"/>
+                        </StackPanel>
+                        <StackPanel Height="30" Orientation="Horizontal">
+                            <Label Content="Mã nhân viên: " HorizontalAlignment="Left" Margin="10,0,0,0" Width="90"/>
+                            <ComboBox x:Name="cboMaNhanVien" Margin="20,0,0,0" VerticalAlignment="Center" Width="218" SelectionChanged="cboMaNhanVien_SelectionChanged"/>
+                        </StackPanel>
+                        <StackPanel Height="30" Orientation="Horizontal">
+                            <Label Content="Tên nhân viên: " HorizontalAlignment="Left" Margin="10,0,0,0" Width="90"/>
+                            <TextBox x:Name="txtTenNhanVien" TextWrapping="Wrap" Margin="20,0,0,0" FontSize="14" VerticalAlignment="Center" Width="218" IsReadOnly="True"/>
+                        </StackPanel>
+                    </StackPanel>
+                    <StackPanel Grid.Column="2" Margin="40,0,0,0">
+                        <StackPanel Height="30" Orientation="Horizontal">
+                            <Label Content="Mã khách hàng: " HorizontalAlignment="Left" Margin="30,0,0,0" Width="90"/>
+                            <ComboBox x:Name="cboMaKhachHang" Margin="20,0,0,0" VerticalAlignment="Center" Width="218" SelectionChanged="cboMaKhachHang_SelectionChanged"/>
+                        </StackPanel>
+                        <StackPanel Height="30" Orientation="Horizontal">
+                            <Label Content="Tên khách hàng:" HorizontalAlignment="Left" Margin="30,0,0,0" Width="90"/>
+                            <TextBox x:Name="txtTenKhachHang" TextWrapping="Wrap" Margin="20,0,0,0" FontSize="14" VerticalAlignment="Center" Width="218"/>
+                        </StackPanel>
+                        <StackPanel Height="30" Orientation="Horizontal">
+                            <Label Content="Địa chỉ:" HorizontalAlignment="Left" Margin="30,0,0,0" Width="90"/>
+                            <TextBox x:Name="txtDiaChi" TextWrapping="Wrap" Margin="20,0,0,0" FontSize="14" VerticalAlignment="Center" Width="218"/>
+                        </StackPanel>
+                        <StackPanel Height="30" Orientation="Horizontal" Margin="0,5,0,5">
+                            <Label Content="Số điện thoại:" HorizontalAlignment="Left" Margin="30,0,0,0" Width="90"/>
+                            <TextBox x:Name="txtSoDienThoai" TextWrapping="Wrap" Width="218" Margin="20,0,0,0" FontSize="14" VerticalAlignment="Center"/>
+                        </StackPanel>
+
+                    </StackPanel>
+                </StackPanel>
+            </GroupBox>
+        </StackPanel>
+        <GroupBox Header="Thông tin các mặt hàng" Grid.Row="1" Grid.ColumnSpan="2" Margin="10,0,10,6">
+            <StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0,5,0,0" HorizontalAlignment="Center">
+                    <StackPanel Height="30" Orientation="Horizontal">
+                        <Label Content="Mã hàng: " HorizontalAlignment="Left" Margin="20,0,0,0" Width="70"/>
+                        <TextBox x:Name="txtMaHang" Margin="10,0,0,0" VerticalAlignment="Center" Width="135"/>
+                    </StackPanel>
+                    <StackPanel Height="30" Orientation="Horizontal">
+                        <Label Content="Tên hàng:" Margin="20,0,0,0" Width="70"/>
+                        <ComboBox x:Name="cboTenHang" Margin="10,0,0,0" FontSize="14" VerticalAlignment="Center" Width="130" SelectionChanged="cboTenHang_SelectionChanged"/>
+                    </StackPanel>
+                    <StackPanel Height="30" Orientation="Horizontal">
+                        <Label Content="Đơn giá:" HorizontalAlignment="Left" Margin="20,0,0,0" Width="70"/>
+                        <TextBox x:Name="txtDonGia" TextWrapping="Wrap" Margin="10,0,0,0" FontSize="14" VerticalAlignment="Center" Width="135"/>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0,5,0,0" HorizontalAlignment="Center">
+                    <StackPanel Height="30" Orientation="Horizontal">
+                        <Label Content="Số lượng:" HorizontalAlignment="Left" Margin="20,0,0,0" Width="70"/>
+                        <TextBox x:Name="txtSoLuong" TextWrapping="Wrap" Margin="10,0,0,0" FontSize="14" VerticalAlignment="Center" Width="135" TextChanged="txtSoLuong_TextChanged"/>
+                    </StackPanel>
+                    <StackPanel Height="30" Orientation="Horizontal">
+                        <Label Content="Giảm giá %:" Margin="20,0,0,0" Width="70"/>
+                        <TextBox x:Name="txtGiamGia" TextWrapping="Wrap" Margin="10,0,0,0" FontSize="14" VerticalAlignment="Center" Width="130" TextChanged="txtGiamGia_TextChanged"/>
+                    </StackPanel>
+                    <StackPanel Height="30" Orientation="Horizontal">
+                        <Label Content="Thành tiền:" HorizontalAlignment="Left" Margin="20,0,0,0" Width="70"/>
+                        <TextBox x:Name="txtThanhTien" TextWrapping="Wrap" Margin="10,0,0,0" FontSize="14" VerticalAlignment="Center" Width="135" IsReadOnly="True"/>
+                    </StackPanel>
+                </StackPanel>
+                <DataGrid x:Name="dgvHDBanHang" CanUserAddRows="False" Grid.ColumnSpan="2" Margin="0,1,0,2" Height="200" SelectionChanged="dgvHDBanHang_SelectionChanged"/>
+                <StackPanel Orientation="Horizontal"/>
+                <StackPanel Orientation="Horizontal">
+                    
+                </StackPanel>
+                <StackPanel Grid.Row="2" Grid.ColumnSpan="2" Orientation="Horizontal" Margin="0,30,0,10" HorizontalAlignment="Center">
+                    <Button x:Name="btnThem" Content="Thêm hóa đơn" Height="25" Width="100" Margin="15,0,15,0" Click="btnThem_Click"/>
+                    <Button x:Name="btnLuu" Content="Lưu hóa đơn" Height="25" Width="100" Margin="15,0,15,0" Click="btnLuu_Click"/>
+                    <Button x:Name="btnHuy" Content="Hủy hóa đơn" Height="25" Width="100" Margin="15,0,15,0" Click="btnHuy_Click"/>
+                    <Button x:Name="btnIn" Content="In hóa đơn" Height="25" Width="100" Margin="15,0,15,0"/>
+                    <Button x:Name="btnBoQua" Content="Bỏ qua" Height="25" Width="100" Margin="15,0,15,0" Click="btnBoQua_Click"/>
+                    <Button x:Name="btnDong" Content="Đóng" Height="25" Width="100" Margin="15,0,15,0" Click="btnDong_Click"/>
+
+                </StackPanel>
+            </StackPanel>
+
+        </GroupBox>
+        <StackPanel Grid.Row="2" Grid.ColumnSpan="2" Margin="10,10,10,0">
+            <StackPanel Height="30" Orientation="Horizontal">
+                <Label Content="Mã hóa đơn:" HorizontalAlignment="Left" Width="90"/>
+                <TextBox x:Name="txtTKMaHDBan" VerticalAlignment="Center" Width="218" KeyDown="txtSearch_KeyDown"/>
+                <Button x:Name="btnTimKiem" Content="Tìm kiếm" Margin="20,0,0,0" Width="120" Height="25" RenderTransformOrigin="9.213,43.316" Click="btnTimKiem_Click"></Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
